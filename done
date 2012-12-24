@@ -1,0 +1,41 @@
+[33mcommit 77fc8f55bb26f7a88c058d99411e94a1a2e10569[m
+Author: Rob Dugas <rob.dugas@gmail.com>
+Date:   Mon Dec 24 00:13:46 2012 -0600
+
+    Add static_pages controller and two actions home help
+
+[33mcommit 9c3039ce94f6354d0dcdc37a0c5184a859e36e47[m
+Author: Rob Dugas <rob.dugas@gmail.com>
+Date:   Sun Dec 23 23:40:57 2012 -0600
+
+    Change Index
+
+[33mcommit 63c2a1f0cf3f1ea1b2925e78c40acb44ec65af10[m
+Author: Rob Dugas <rob.dugas@gmail.com>
+Date:   Sun Dec 23 23:39:43 2012 -0600
+
+    Changed Readme
+
+[33mcommit 3d0e1265335536170adf5c96c74d8558c93e7258[m
+Author: Rob Dugas <rob.dugas@gmail.com>
+Date:   Thu Dec 20 20:42:32 2012 -0600
+
+    Index change 2
+
+[33mcommit 53150352c53d8d69907f29ed12263dc270912062[m
+Author: Rob Dugas <rob.dugas@gmail.com>
+Date:   Thu Dec 20 20:35:23 2012 -0600
+
+    Change Index
+
+[33mcommit 65c2952b9f6bc95125bfa3cee9ff2251065fdd5c[m
+Author: Rob Dugas <rob.dugas@gmail.com>
+Date:   Thu Dec 20 20:26:19 2012 -0600
+
+    Improve the README
+
+[33mcommit e93ebcb0404d78d63d3083b380c880d6d56005dc[m
+Author: Rob Dugas <rob.dugas@gmail.com>
+Date:   Thu Dec 20 20:24:36 2012 -0600
+
+    Initial commit
