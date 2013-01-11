@@ -1,2 +1,2 @@
-s = "foobar";
+s = "foobarr";
 s.class
